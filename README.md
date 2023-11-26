@@ -159,11 +159,11 @@ Apabila menginput 'k' maka program langsung berhenti
 ## Tampilan Program
 - Menambahkan Data
 
-![gambar](tambah_data.png)
+![gambar](tambahdata.png)
 
 - Tampil Data
 
-![gambar](tampil_data.png)
+![gambar](tampildata.png)
 
 - Keluar
 
