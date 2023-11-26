@@ -171,4 +171,4 @@ Apabila menginput 'k' maka program langsung berhenti
 
 ## Flowchart
 
-![gambar](flowchartprt5.png)
+![gambar](flowchartp5.pdf)
